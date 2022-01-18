@@ -1,0 +1,8 @@
+__pycache__
+dist
+logs
+build
+*.egg-info
+.Rproj.user
+docs/build
+data/simulation/
