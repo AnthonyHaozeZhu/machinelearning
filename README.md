@@ -1,3 +1,5 @@
+$\color{red}{NKU同学参考前务必阅读我主页readme中的内容}$
+
 # machinelearning
 本人在南开大学学习机器学习课程所写作业
 
